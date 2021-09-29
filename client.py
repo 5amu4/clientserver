@@ -1,3 +1,8 @@
+'''''
+Samuel
+Client Server interaction
+09/28/2021
+'''
 import socket
 
 client = socket.socket()
